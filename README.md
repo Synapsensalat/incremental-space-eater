@@ -4,7 +4,7 @@
 
 **Supermass** is a two-stage, cross-platform incremental evolution game that blends idle progression with active, physics-based gameplay.
 
-In the first stage, a meteor impact triggers the emergence of a single biomass seed on a planet's surface. From this fixed starting point, the biomass grows outward, absorbing the planet's mass and gradually unlocking upgrades and milestones in a classic idle/incremental fashion.
+In the first stage, a meteor impact triggers the emergence of a single biomass seed on a planet's surface. From this fixed starting point, the biomass grows outward, absorbing the planet's mass and gradually unlocking upgrades and milestones in a classic idle/incremental fashion (Inspiration Game: Spaceplan) 
 
 Once the planet is fully consumed, the game transitions to the second stage: an active, space-based evolution. In this phase, you control your evolved organism in real-time, moving around a vast, physics-driven cosmos much like in *Solar 2* or *Agar.io*. Here, randomly spawning celestial objects such as asteroids and debris provide mass and biomass, which you must actively collect to continue your evolution. Although the same incremental upgrade system remains, the gameplay becomes more dynamic and interactive as you navigate, combat, and consume in an open, ever-changing space environment.
 
